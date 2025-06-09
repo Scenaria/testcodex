@@ -1,1 +1,15 @@
-readmee
+# Snake Game
+
+This repository includes a simple terminal-based Snake game written in Python using the `curses` module.
+
+## Requirements
+
+- Python 3.x (the standard `curses` module is used)
+
+## Running the Game
+
+```
+python3 snake.py
+```
+
+Use the arrow keys to control the snake. Press `Esc` to quit.
